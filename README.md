@@ -1,6 +1,6 @@
 Linux nsps.zip - Contains executable for linux with shell script to run the executable. 
 
-Executable has logging to a new file /nsr/logs/nsrps.zip
+Executable has logging to a new file /nsr/logs/nsrps.log
 
 Sample output:
 
