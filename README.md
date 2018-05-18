@@ -1,6 +1,9 @@
-# nsrps
+Linux nsps.zip - Contains executable for linux with shell script to run the executable. 
 
-Sample outpout:
+Executable has logging to a new file /nsr/logs/nsrps.zip
+
+Sample output:
+
 05/18/2018 05:42:23 PM PID 26170 is using CPU%: 0.0 MEM%: 0.2 nsrexecd
 05/18/2018 05:42:23 PM PID 26192 is using CPU%: 0.0 MEM%: 0.0 nsrctld
 05/18/2018 05:42:23 PM PID 26300 is using CPU%: 0.0 MEM%: 12.3 nsrd
